@@ -7,6 +7,16 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0848345B18B7AED6006548E7 /* Paper-40.png in Resources */ = {isa = PBXBuildFile; fileRef = 0848345118B7AED6006548E7 /* Paper-40.png */; };
+		0848345C18B7AED6006548E7 /* Paper-40@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 0848345218B7AED6006548E7 /* Paper-40@2x.png */; };
+		0848345D18B7AED6006548E7 /* Paper-76.png in Resources */ = {isa = PBXBuildFile; fileRef = 0848345318B7AED6006548E7 /* Paper-76.png */; };
+		0848345E18B7AED6006548E7 /* Paper-76@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 0848345418B7AED6006548E7 /* Paper-76@2x.png */; };
+		0848345F18B7AED6006548E7 /* Paper-120.png in Resources */ = {isa = PBXBuildFile; fileRef = 0848345518B7AED6006548E7 /* Paper-120.png */; };
+		0848346018B7AED6006548E7 /* Paper-missing.png in Resources */ = {isa = PBXBuildFile; fileRef = 0848345618B7AED6006548E7 /* Paper-missing.png */; };
+		0848346118B7AED6006548E7 /* Paper-Small.png in Resources */ = {isa = PBXBuildFile; fileRef = 0848345718B7AED6006548E7 /* Paper-Small.png */; };
+		0848346218B7AED6006548E7 /* Paper-Small@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 0848345818B7AED6006548E7 /* Paper-Small@2x.png */; };
+		0848346318B7AED6006548E7 /* Paper.png in Resources */ = {isa = PBXBuildFile; fileRef = 0848345918B7AED6006548E7 /* Paper.png */; };
+		0848346418B7AED6006548E7 /* Paper@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 0848345A18B7AED6006548E7 /* Paper@2x.png */; };
 		1A1B02CB18AAF00D000DE3F8 /* HAPaperCollectionViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1A1B02CA18AAF00D000DE3F8 /* HAPaperCollectionViewController.m */; };
 		1A1B02D918AAF0B9000DE3F8 /* HATransitionController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1A1B02D318AAF0B9000DE3F8 /* HATransitionController.m */; };
 		1A1B02DA18AAF0B9000DE3F8 /* HATransitionLayout.m in Sources */ = {isa = PBXBuildFile; fileRef = 1A1B02D518AAF0B9000DE3F8 /* HATransitionLayout.m */; };
@@ -40,6 +50,16 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		0848345118B7AED6006548E7 /* Paper-40.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Paper-40.png"; sourceTree = "<group>"; };
+		0848345218B7AED6006548E7 /* Paper-40@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Paper-40@2x.png"; sourceTree = "<group>"; };
+		0848345318B7AED6006548E7 /* Paper-76.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Paper-76.png"; sourceTree = "<group>"; };
+		0848345418B7AED6006548E7 /* Paper-76@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Paper-76@2x.png"; sourceTree = "<group>"; };
+		0848345518B7AED6006548E7 /* Paper-120.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Paper-120.png"; sourceTree = "<group>"; };
+		0848345618B7AED6006548E7 /* Paper-missing.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Paper-missing.png"; sourceTree = "<group>"; };
+		0848345718B7AED6006548E7 /* Paper-Small.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Paper-Small.png"; sourceTree = "<group>"; };
+		0848345818B7AED6006548E7 /* Paper-Small@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Paper-Small@2x.png"; sourceTree = "<group>"; };
+		0848345918B7AED6006548E7 /* Paper.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Paper.png; sourceTree = "<group>"; };
+		0848345A18B7AED6006548E7 /* Paper@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Paper@2x.png"; sourceTree = "<group>"; };
 		1A1B02C918AAF00D000DE3F8 /* HAPaperCollectionViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HAPaperCollectionViewController.h; sourceTree = "<group>"; };
 		1A1B02CA18AAF00D000DE3F8 /* HAPaperCollectionViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HAPaperCollectionViewController.m; sourceTree = "<group>"; };
 		1A1B02D218AAF0B9000DE3F8 /* HATransitionController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HATransitionController.h; sourceTree = "<group>"; };
@@ -97,6 +117,23 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		0848346518B7AEDE006548E7 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				0848345118B7AED6006548E7 /* Paper-40.png */,
+				0848345218B7AED6006548E7 /* Paper-40@2x.png */,
+				0848345318B7AED6006548E7 /* Paper-76.png */,
+				0848345418B7AED6006548E7 /* Paper-76@2x.png */,
+				0848345518B7AED6006548E7 /* Paper-120.png */,
+				0848345618B7AED6006548E7 /* Paper-missing.png */,
+				0848345718B7AED6006548E7 /* Paper-Small.png */,
+				0848345818B7AED6006548E7 /* Paper-Small@2x.png */,
+				0848345918B7AED6006548E7 /* Paper.png */,
+				0848345A18B7AED6006548E7 /* Paper@2x.png */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
 		1A1B02C818AAEF83000DE3F8 /* Custom Layout */ = {
 			isa = PBXGroup;
 			children = (
@@ -161,6 +198,7 @@
 		1AA0CC1E18A07EBC008F50F6 /* Paper */ = {
 			isa = PBXGroup;
 			children = (
+				0848346518B7AEDE006548E7 /* Resources */,
 				1AA0CC2718A07EBC008F50F6 /* HAAppDelegate.h */,
 				1AA0CC2818A07EBC008F50F6 /* HAAppDelegate.m */,
 				1AA0CC2D18A07EBC008F50F6 /* HAViewController.h */,
@@ -283,9 +321,19 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0848346318B7AED6006548E7 /* Paper.png in Resources */,
+				0848345F18B7AED6006548E7 /* Paper-120.png in Resources */,
+				0848345B18B7AED6006548E7 /* Paper-40.png in Resources */,
+				0848346118B7AED6006548E7 /* Paper-Small.png in Resources */,
+				0848345C18B7AED6006548E7 /* Paper-40@2x.png in Resources */,
 				1AA0CC3118A07EBC008F50F6 /* Images.xcassets in Resources */,
+				0848345E18B7AED6006548E7 /* Paper-76@2x.png in Resources */,
+				0848346218B7AED6006548E7 /* Paper-Small@2x.png in Resources */,
+				0848346418B7AED6006548E7 /* Paper@2x.png in Resources */,
+				0848345D18B7AED6006548E7 /* Paper-76.png in Resources */,
 				1AA0CC2318A07EBC008F50F6 /* InfoPlist.strings in Resources */,
 				1AA0CC2C18A07EBC008F50F6 /* Main.storyboard in Resources */,
+				0848346018B7AED6006548E7 /* Paper-missing.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -437,12 +485,13 @@
 		1AA0CC4818A07EBC008F50F6 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Distribution: Yunnan Taxus Architects Co., Ltd.";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Paper/Paper-Prefix.pch";
 				INFOPLIST_FILE = "Paper/Paper-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "553E7AE6-CCA4-4B88-B00A-F18B68360A28";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -450,12 +499,13 @@
 		1AA0CC4918A07EBC008F50F6 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Distribution: Yunnan Taxus Architects Co., Ltd.";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Paper/Paper-Prefix.pch";
 				INFOPLIST_FILE = "Paper/Paper-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "553E7AE6-CCA4-4B88-B00A-F18B68360A28";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
